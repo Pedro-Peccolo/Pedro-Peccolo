@@ -1,11 +1,9 @@
 
-# [Pedro Peccolo] 👋
+# Pedro Peccolo 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Seu%20LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-@seu-usuario-181717?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
-
-Bem-vindo ao meu perfil! Aqui você encontra alguns dos meus projetos e contribuições open source.
+[![GitHub Badge](https://img.shields.io/badge/-@seu-usuario-181717?style=flat&logo=github&logoColor=white)](https://github.com/Pedro-Peccolo)
 
 ## Sobre Mim
 
@@ -34,7 +32,7 @@ Aqui estão alguns projetos que estou trabalhando ou que já concluí:
 
 ## 📈 Estatísticas
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Pedro-Peccolo&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ---
 
