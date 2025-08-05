@@ -2,7 +2,7 @@
 # Pedro Peccolo 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Seu%20LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:peccolo.poa@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-peccolo.poa@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:peccolo.poa@gmail.com)
 
 ## Sobre Mim
 
