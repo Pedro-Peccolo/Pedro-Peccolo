@@ -11,9 +11,3 @@
 ## 🚀 Tecnologias
 - ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)- ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas)- ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)- ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)- ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)- ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
   
-
-## 📈 Estatísticas
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Pedro-Peccolo&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
----
